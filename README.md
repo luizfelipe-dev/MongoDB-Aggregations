@@ -1,15 +1,18 @@
 # Boas vindas ao repositório do projeto de Aggregations!
 
+Em desenvolvimento...
+
 Branch: luizfelipedev-aggregation
+* `git checkout luizfelipedev-aggregation`;
 
 # Habilidades
-Neste projeto você será capaz de:
+Neste projeto vamos:
 - Executar buscas complexas no banco mongoDB
 - Usar os operadores de aggregation para fazer uma pipeline  
 
-# Desafios
+# Resultados
 
-As resoluções estão na pasta challenges:
+As resoluções estão na pasta `challenges`:
 
 ### Desafio 1
 
